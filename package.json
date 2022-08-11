@@ -1,0 +1,17 @@
+{
+    "name": "node_auth_sequelise",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Kaddu Livingstone",
+    "license": "ISC",
+    "dependencies": {
+        "cookie-parser": "^1.4.6",
+        "express": "^4.18.1",
+        "express-session": "^1.17.3"
+    }
+}
